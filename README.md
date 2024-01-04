@@ -1,2 +1,1 @@
-# java-core
-Practice exercise
+# core project 
