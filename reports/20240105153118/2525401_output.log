@@ -1,0 +1,9 @@
+2024-01-05 15:31:18,637 - student - INFO - Log initialization
+2024-01-05 15:31:18,638 - student - INFO - START: 2525401 - VimalaR1528
+2024-01-05 15:31:18,713 - student - ERROR - (3, 'rmdir C:\\evaluate\\build\\20240105153109\\2525401\\VimalaR1528\\java-core /S /Q')
+2024-01-05 15:31:18,714 - student - INFO - CLONE: https://github.com/VimalaR1528/java-core
+2024-01-05 15:31:19,615 - student - INFO - CLONE: Successful
+2024-01-05 15:31:19,616 - student - INFO - BUILD: Start
+2024-01-05 15:31:24,700 - student - INFO - BUILD: Successful
+2024-01-05 15:31:24,703 - student - INFO - TEST: Start
+2024-01-05 15:31:25,297 - student - INFO - TEST: End
