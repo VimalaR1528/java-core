@@ -1,0 +1,27 @@
+2024-01-09 11:33:35,593 - student - INFO - Log initialization
+2024-01-09 11:33:35,594 - student - INFO - START: 2525401 - VimalaR1528
+2024-01-09 11:33:35,718 - student - ERROR - (3, 'rmdir C:\\evaluate\\build\\20240109113323\\2525401\\VimalaR1528\\java-core /S /Q')
+2024-01-09 11:33:35,721 - student - INFO - CLONE: https://github.com/VimalaR1528/java-core
+2024-01-09 11:33:36,693 - student - INFO - CLONE: Successful
+2024-01-09 11:33:36,695 - student - INFO - BUILD: Start
+2024-01-09 11:33:42,193 - student - INFO - BUILD: Successful
+2024-01-09 11:33:42,193 - student - INFO - TEST: Start
+2024-01-09 11:33:42,847 - student - INFO - TEST: START D01
+2024-01-09 11:33:42,849 - student - INFO - TEST: START D01 tc_01
+2024-01-09 11:33:42,972 - student - INFO - TEST: START D01 tc_01 ("Failed to import 'learning.java.core.day1.D01p01'",)
+2024-01-09 11:33:42,973 - student - INFO - TEST: END D01 tc_01
+2024-01-09 11:33:42,974 - student - INFO - TEST: START D01 tc_02
+2024-01-09 11:33:42,989 - student - INFO - TEST: START D01 tc_02 ("Failed to import 'learning.java.core.day1.D01p01'",)
+2024-01-09 11:33:42,989 - student - INFO - TEST: END D01 tc_02
+2024-01-09 11:33:43,003 - student - INFO - TEST: END D01
+2024-01-09 11:33:43,005 - student - INFO - TEST: START D02
+2024-01-09 11:33:43,038 - student - INFO - TEST: END D02
+2024-01-09 11:33:43,045 - student - INFO - TEST: SKIP D03
+2024-01-09 11:33:43,046 - student - INFO - TEST: SKIP D04
+2024-01-09 11:33:43,048 - student - INFO - TEST: SKIP D05
+2024-01-09 11:33:43,049 - student - INFO - TEST: SKIP D06
+2024-01-09 11:33:43,050 - student - INFO - TEST: SKIP D07
+2024-01-09 11:33:43,051 - student - INFO - TEST: SKIP D08
+2024-01-09 11:33:43,053 - student - INFO - TEST: SKIP D09
+2024-01-09 11:33:43,055 - student - INFO - TEST: SKIP D10
+2024-01-09 11:33:43,055 - student - INFO - TEST: End
