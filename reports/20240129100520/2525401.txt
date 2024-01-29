@@ -1,0 +1,5 @@
+D01||123||tc_01||FAIL||("Failed to import 'learning.java.core.day1.Rectangle'",)
+D01||123||tc_02||FAIL||("Failed to import 'learning.java.core.day1.D01p01'",)
+D02||123||tc_01||FAIL||("Failed to import 'learning.java.core.day2.D02p01'",)
+D02||123||tc_02||FAIL||("Failed to import 'learning.java.core.day2.D02p01'",)
+D02||123||tc_03||FAIL||("Failed to import 'learning.java.core.day2.D02p01'",)
